@@ -1,0 +1,7 @@
+user: hhhhh	
+pass: wwwww
+
+user: admin
+pass: admin
+
+!! UPLOAD SIKE IZ DIREKTORIJA (ne prebacujem ih u /img)
